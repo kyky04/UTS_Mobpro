@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<ImageView
+	    android:id="@+id/imageViewBendera"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:paddingLeft="15dp"
+	    android:paddingRight="15dp"
+	    android:paddingTop="10dp" />
+
+	<TextView
+	    android:id="@+id/textViewNegara"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_toRightOf="@+id/imageViewBendera"
+	    android:textSize="19sp" 
+		android:textStyle="bold" 
+		android:textColor="#0000FF" 
+	    android:text="TextView" />
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\build\\intermediates\\res\\merged\\debug\\layout\\info_detail.xml",
+        "source": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\src\\main\\res\\layout\\info_detail.xml"
+    },
+    {
+        "merged": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\build\\intermediates\\res\\merged\\debug\\layout\\finish_activity.xml",
+        "source": "D:\\Project Android\\Kuliah\\UTSMobileProgramming\\src\\main\\res\\layout\\finish_activity.xml"
+    }
+]
